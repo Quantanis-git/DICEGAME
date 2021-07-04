@@ -1,0 +1,33 @@
+h1{
+  font-family: 'Encode Sans SC', sans-serif;
+  font-size: 7rem;
+  color: #E8E46E;
+
+}
+body{
+  background-color: #125D98;
+  display: block;
+  margin: 8px;
+}
+.container{
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+div{
+  display: block;
+}
+.dice{
+  text-align: center;
+  display: inline-block;
+}
+p{
+  font-size: 2em;
+  font-family: 'Uchen', serif;
+  display: block;
+  color: #E8E46E;
+  margin-left: 3em;
+  margin-right: 3em;
+
+
+}
